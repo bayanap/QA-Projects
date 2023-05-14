@@ -1,0 +1,23 @@
+# QA-Projects
+samples of Projects from my work in QA 
+ -Functinal testing
+- Non- functional testing"
+- writing test plan 
+- testing e-commerce"
+- Bug life cycle
+- chrome dev tool
+- snagit tool"
+- Pages in e-commerce site
+- how to write test cases"
+- regression testing and reporting bugs
+- jira 
+- regression testing
+- Automation using selenium"
+- Automotion (test PLP)
+- Automotion (test PDP)
+- TestNG 
+- postman 
+- API testing using postman task
+- data driven testing using postman
+- Rest Assured 
+- JMeter
